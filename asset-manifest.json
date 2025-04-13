@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.424d6310.css",
+    "main.js": "/my-portfolio/static/js/main.cc98256f.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/Logo.png": "/my-portfolio/static/media/Logo.8ecce29a6e0bdea76caa.png",
+    "static/media/codeforces-seeklogo.png": "/my-portfolio/static/media/codeforces-seeklogo.4ed919dd9756b369a6a7.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.424d6310.css.map": "/my-portfolio/static/css/main.424d6310.css.map",
+    "main.cc98256f.js.map": "/my-portfolio/static/js/main.cc98256f.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424d6310.css",
+    "static/js/main.cc98256f.js"
+  ]
+}
